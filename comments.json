@@ -7,6 +7,11 @@
     {
         "id": 1420070400000,
         "author": "Paul O’Shannessy",
-        "text": "React is *great*!"
+        "text": "React is really *great*!"
+    },
+    {
+        "id": 1420070400001,
+        "author": "Jim Nutt",
+        "text": "Kinda gettting the hang of this React thing!"
     }
 ]
