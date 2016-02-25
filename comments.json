@@ -13,5 +13,15 @@
         "id": 1420070400001,
         "author": "Jim Nutt",
         "text": "Kinda gettting the hang of this React thing!"
+    },
+    {
+        "id": 1456433421828,
+        "author": "Jim",
+        "text": "This is a new comment"
+    },
+    {
+        "id": 1456433527696,
+        "author": "Jim R",
+        "text": "This is an optimistic comment"
     }
 ]
